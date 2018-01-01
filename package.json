@@ -1,0 +1,29 @@
+{
+  "name": "updatemit",
+  "version": "1.0.0",
+  "description": "Package/Tool for update MIT license year",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiagoDanin/UpdateMIT.git"
+  },
+  "keywords": [
+    "update",
+    "mit",
+    "license",
+    "year",
+    "github"
+  ],
+  "author": "Tiago Danin <TiagoDanin@outlook.com> (https://TiagoDanin.github.io)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/TiagoDanin/UpdateMIT/issues"
+  },
+  "homepage": "https://github.com/TiagoDanin/UpdateMIT#readme",
+  "dependencies": {
+    "node-datetime": "2.0.3"
+  }
+}
