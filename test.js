@@ -1,7 +1,7 @@
 var dateTime = require('node-datetime')
 var assert = require('assert')
 var year = (dateTime.create()).format('Y')
-var updatemit = require('../index.js')
+var updatemit = require('./index.js')
 
 var mit = `MIT License
 
